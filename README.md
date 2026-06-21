@@ -4,9 +4,7 @@
 
 [🌐 Open LetzGo](https://letz-go.vercel.app) <!-- replace with your actual URL -->
 
-![LetzGo Screenshot](1000015252.jpg)
-![LetzGo Screenshot](1000015254.jpg)
-![LetzGo Screenshot](1000015266.jpg)
+![LetzGo Screenshot](element.png)
 
 
 ## What is LetzGo?
