@@ -2,7 +2,7 @@
 
 **Real-time hyper-local information for Luxembourg residents and cross-border commuters.**
 
-[🌐 Open LetzGo](https://letzgo.lu) <!-- replace with your actual URL -->
+[🌐 Open LetzGo](https://letz-go.vercel.app) <!-- replace with your actual URL -->
 
 ![LetzGo Screenshot](screenshot.png)
 
